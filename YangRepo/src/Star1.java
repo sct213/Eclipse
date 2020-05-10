@@ -6,7 +6,7 @@ public class Star1 {
 		int i;
 		int s;
 		
-		for(i=1; i<=6; i++) {
+		for(i=1; i<=7; i++) {
 			for(s=1; s<i; s++) {
 				System.out.print("*");
 			}
