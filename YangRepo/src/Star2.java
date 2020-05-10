@@ -7,7 +7,13 @@ public class Star2 {
 		int s;
 		
 		for(i=1; i<=6; i++) {
-			for(s=6; s>i; s--) {
+			for(s=1; s<i; s++) {
+				System.out.print("*");
+			}
+			System.out.println("");
+		}
+		for(i=1; i<=7; i++) {
+			for(s=7; s>i; s--) {
 				System.out.print("*");
 			}
 			System.out.println("");
