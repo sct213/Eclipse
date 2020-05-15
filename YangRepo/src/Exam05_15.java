@@ -1,5 +1,5 @@
 
-public class Star3 {
+public class Exam05_15 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
