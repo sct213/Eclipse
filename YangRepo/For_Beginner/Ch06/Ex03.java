@@ -1,6 +1,6 @@
 package Ch06;
 
-public class ex3 {
+public class Ex03 {
 public static void main(String [] args) {
 	int hap=0;
 	int i;
