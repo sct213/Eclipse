@@ -2,7 +2,7 @@ package Ch04;
 
 import java.util.Scanner;
 
-public class While3 {
+public class BreakContinue4_18 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
