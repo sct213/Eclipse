@@ -1,6 +1,6 @@
 package PersonalProject;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Result {
 
@@ -53,13 +53,34 @@ public class Result {
 					System.out.println("*");
 				}
 				break;
+				case 2:
+					int num = sc.nextInt();
+					int i=1;
+					while(i<=num) {
+						
+					}
 			}
 			break;
 		case 3:
+			System.out.println("3번 모드. 구구단을 출력하겠습니다.");
+			System.out.println("몇번부터 출력할지 입력해주세요 : ");
+			int i = sc.nextInt();
+			int j = 1;
+			
+				while(i<=9) {
+					System.out.println("< " + i + "단 >");
+					while(j<=9) {
+					System.out.println(i + " * " + j  + " = " + (i*j));
+					j++;
+					}
+					j=1;
+					i++;
+					System.out.println();
+			}
 			break;
 		}
 		
 		
 	}
 
-}
+	}
