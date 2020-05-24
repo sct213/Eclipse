@@ -11,6 +11,7 @@ public class intnum {
 		System.out.println("몇 단부터 출력하시겠습니까?");
 		int num = sc.nextInt();
 		int j=1;
+		
 		if(num>9) {
 			System.out.println("이 프로그램은 9단까지 출력가능합니다.");
 		}
@@ -28,6 +29,7 @@ public class intnum {
 			num++;
 			System.out.println();
 		}
+		
 		
 	}
 
