@@ -57,7 +57,7 @@ public class Result {
 					int num = sc.nextInt();
 					int i=1;
 					while(i<=num) {
-						
+//						for(int j=1);
 					}
 			}
 			break;
