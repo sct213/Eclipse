@@ -1,6 +1,8 @@
 package Iterator;
 
-import java.util.*;
+import java.util.Iterator;
+import java.util.ArrayList;
+import java.util.List;
 public class Iterater {
 
 	public static void main(String[] args) {

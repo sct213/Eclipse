@@ -13,13 +13,12 @@ public class CodingTest5_29 {
 					hap += num[i];
 					j++;
 				}
-				int l= 11;
-				int k = 0;
+				int i = 0;
 				
-				while(l<=100){
-					System.out.printf("num[%d] = %d\n", k, l);
-					k++;
-					l++;
+				while(i<90){
+					System.out.printf("num[%d] = %d\n", i, num[i]);
+					i++;
+		
 				}
 				System.out.println(hap);
 			}
