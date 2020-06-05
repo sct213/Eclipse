@@ -10,6 +10,7 @@ public class Ex1 {
 		
 		System.out.println("score[3] = " + score[3]);
 		
+		
 	}
 
 }
