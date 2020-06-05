@@ -16,6 +16,7 @@ public class Pa {
 		
 		while(it.hasNext()) {
 			
+			
 			System.out.println(it.next());
 			if(a==1) {
 				System.out.println("<" + it.next() + ">");
