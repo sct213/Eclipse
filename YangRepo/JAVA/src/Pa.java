@@ -12,6 +12,7 @@ public class Pa {
 		
 		int a = 1;
 		
+		
 		Iterator it = ar.iterator();
 		
 		while(it.hasNext()) {
