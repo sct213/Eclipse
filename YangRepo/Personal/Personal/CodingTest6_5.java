@@ -16,7 +16,7 @@ public class CodingTest6_5 {
 		
 		while(it.hasNext()) {
 			
-			
+			System.out.println(it.next());
 			if(a==1) {
 				System.out.println("<" + it.next() + ">");
 			}else {
